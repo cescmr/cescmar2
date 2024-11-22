@@ -249,8 +249,8 @@ footer {
     width: 150px; /* Tamaño de la imagen */
     height: 150px;
     border-radius: 50%; /* Hace la imagen redonda */
-    border: 3px solid #82b1ff; /* Borde azul claro alrededor de la imagen */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+    border: 3px solid #0b4709; /* Borde azul claro alrededor de la imagen */
+    box-shadow: 0 4px 8px rgba(197, 107, 107, 0.1); /* Sombra ligera */
     object-fit: cover; /* Asegura que la imagen se recorte y ajuste sin deformarse */
 }
 
