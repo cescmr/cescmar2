@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const githubUsername = 'cescmr';  // El teu nom d'usuari de GitHub
     const repoName = 'cesc_itb2425_mds';  // Nom del repositori
     const filePath = 'dateTime.py';  // Fitxer que vols mostrar
-    const projectContainer = document.getElementById('github-project');
+    const projectContainer = document.getElementById('github-project1');
 
     // URL de l'API de GitHub per obtenir el contingut del fitxer
     const fileUrl = `https://api.github.com/repos/${githubUsername}/${repoName}/contents/${filePath}`;
@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const githubUsername = 'cescmr';  // El teu nom d'usuari de GitHub
     const repoName = 'cesc_itb2425_mds';  // Nom del repositori
     const filePath = 'TA02/comprovarEdat.py';  // Fitxer que vols mostrar
-    const projectContainer = document.getElementById('github-project1');
+    const projectContainer = document.getElementById('github-project2');
 
     // URL de l'API de GitHub per obtenir el contingut del fitxer
     const fileUrl = `https://api.github.com/repos/${githubUsername}/${repoName}/contents/${filePath}`;
