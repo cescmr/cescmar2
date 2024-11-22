@@ -57,8 +57,9 @@ main {
 /* Estilos para proyectos destacados */
 .proyectos-destacados {
     display: flex;
-    flex-direction: column; /* Cambiar a 'column' para alineación vertical */
-    gap: 30px;
+    justify-content: space-between; /* Espaciado entre elementos */
+    align-items: center; /* Alinea verticalmente los elementos */
+    gap: 20px; /* Espacio entre cada elemento */
     margin-top: 20px;
 }
 
